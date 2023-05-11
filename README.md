@@ -1,10 +1,10 @@
-# OSEP-Joplin-Template
-OSEP Joplin Template I used for my exam
+# OSEP & OSWE-Joplin-Template
+OSEP & OSWE Joplin Template I used for my exam
 
 
 
 
-## Remove Joplin Title from export
+# Remove Joplin Title from export
 
 Under Options go to Custom Stylesheet for rendered Markdown and click Button
 
