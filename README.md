@@ -8,7 +8,7 @@ OSEP Joplin Template I used for my exam
 
 Under Options go to Custom Stylesheet for rendered Markdown and click Button
 
-![/joplin_options.png](:/joplin_options)
+![joplin_options.png](:joplin_options.png)
 
 
 Now paste the following
